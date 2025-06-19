@@ -1,40 +1,28 @@
 ### Here's how users can download an APK using the Chrome browser on their smartphone:
 
 ### Steps:
-1. Open Chrome:
-
-•	Launch the Chrome browser on your smartphone.
-
-2.	Visit the Website:
-
-•	Navigate to the website from which you want to download the APK file.
-
-3.	Locate the APK:
+1. Locate the APK:
 
 •	Find the download link for the APK file on the website.
 
-4.	Tap the Download Link:
+2.	Tap the Download Link:
 
 •	Tap on the download link for the APK file. Chrome may display a warning about the potential dangers of downloading files outside of the Play Store. 
 
-5.	Download Confirmation:
+3.	Download Confirmation:
 
 •	Confirm the download if prompted. The APK file will start downloading.
 
-6.	Access the Download:
-
-•	After the download is complete, you can access the APK file from the notification shade or by going to the "Downloads" section in the Chrome menu.
-
-7.	Enable Installations from Unknown Sources (if needed):
+4.	Enable Installations from Unknown Sources (if needed):
 
 •	If you haven't enabled installations from unknown sources, you might need to do so. Go to your device's settings, navigate to the security or apps section, and enable installations from unknown sources for the Chrome browser.
 
-8.	Install the APK:
+5.	Install the APK:
 
 •	Tap on the downloaded APK file to start the installation process.
  
 
-9.	Permissions and Install:
+6.	Permissions and Install:
 
 •	Review the permissions requested by the app and then tap "Install" to proceed.
 
@@ -50,7 +38,7 @@
 
 •	Click the open button to open the AR experiment application.
  
-10.	Complete Installation:
+7.	Complete Installation:
 •	Once the installation is complete, you can open the app and start using it.
 
  
